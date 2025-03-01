@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="centronuevo" size="0.089000 0.050857" />
+    <ImageTarget name="magorojo" size="0.089000 0.050857" />
+    <ImageTarget name="guerreroRojo" size="0.089000 0.050857" />
+    <ImageTarget name="arquerarojo" size="0.089000 0.050857" />
+    <ImageTarget name="magoAzul" size="0.089000 0.050857" />
+    <ImageTarget name="guerreroAzul" size="0.089000 0.050857" />
+    <ImageTarget name="arqueraAzul" size="0.089000 0.050857" />
+  </Tracking>
+</QCARConfig>
